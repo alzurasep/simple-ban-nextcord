@@ -1,6 +1,5 @@
 from nextcord.ext import commands, application_checks
 import nextcord
-import asyncio
 import os
 
 
